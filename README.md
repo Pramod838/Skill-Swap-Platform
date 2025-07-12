@@ -153,7 +153,7 @@ We welcome community contributions! Here’s how to get started:
 Fork the repository
 
 Clone your fork:
-git clone https://github.com/your-username/Skill-Swap-Platform.git
+git clone: https://github.com/your-username/Skill-Swap-Platform.git
 
 Create a new branch:
 git checkout -b feature/YourFeature
