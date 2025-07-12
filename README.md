@@ -5,25 +5,31 @@ A peer-to-peer skill exchange platform built to empower learners through mutual 
 ✨ View the Live Website: https://wondrous-wisp-ed631e.netlify.app/
 
 📌 Selected Problem Statement
-We selected the first problem statement:
+
+We selected the first problem statement: Skill Swap Platform
 
 🔄 Skill Swap Platform
+
 Build a system that enables users to exchange skills without monetary transactions. The platform should allow users to list skills they can teach, skills they want to learn, and match them with others for mutual learning.
 
 This problem promotes inclusive education, community empowerment, and digital skill-sharing, aligning well with our team’s vision.
 
 👨‍💻 About the Team – TechCoders
+
 We are Team TechCoders, a passionate group of student developers committed to building meaningful tech solutions. Each of us contributed equally in designing, developing, and refining the platform.
 
 👤 Team Leader
+
 Pramod Khatik – Full-stack developer, system designer, project coordinator
 
 👥 Team Members
+
 Krishu Patel – Frontend developer, UI/UX designer
 
 Manish Giakwad – Backend developer, database manager
 
 🎯 Objective
+
 To create a platform where:
 
 People can teach skills they know
@@ -32,6 +38,7 @@ Learn new skills from others
 
 
 ✨ Key Features
+
 Feature	Description
 🔐 User Authentication	Secure registration and login system with session management
 👤 Profile Management	Users can list skills to teach and learn, add bio, and manage availability
@@ -43,6 +50,7 @@ Feature	Description
 🧑‍💼 Admin Dashboard (Future)	Manage users, handle complaints, and review flagged content
 
 🔧 Tech Stack
+
 📱 Frontend
 HTML, CSS, JavaScript (React/Vue)
 
@@ -51,16 +59,19 @@ Responsive UI for mobile and desktop
 Clean and user-friendly interface
 
 ⚙️ Backend
+
 Python with Flask
 REST API with secure endpoints
 Session handling and data validation
 
 🗃️ Database
+
 MongoDB via PyMongo
 
 Collections for users, skills, requests, feedback, etc.
 
 📦 Tools & Libraries
+
 Flask, PyMongo, bcrypt, JWT (authentication)
 
 npm (frontend packages)
@@ -90,6 +101,7 @@ pip install -r requirements.txt
 # SECRET_KEY=<your_secret_key>
 
 🌐 Live Demo
+
 ✅ Live view: https://wondrous-wisp-ed631e.netlify.app/
 
 Explore the full working app with real-time signup, skill profiles, matchmaking, and request flow!
@@ -111,18 +123,31 @@ Live view: https://wondrous-wisp-ed631e.netlify.app/
 📁 Project Structure
 
 Skill-Swap-Platform/
+
 ├── project/
+
 │   ├── backend/
+
 │   │   ├── server.py
+
 │   │   ├── routes/
+
 │   │   ├── models/
+
 │   │   ├── config/
+
 │   │   └── requirements.txt
+
 │   ├── frontend/
+
 │   │   ├── src/
+
 │   │   ├── public/
+
 │   │   └── package.json
+
 ├── README.md
+
 └── .gitignore
 
 🧪 How It Works – Flow
@@ -138,6 +163,7 @@ Users send and accept swap requests
 Both users rate each other after completion
 
 🔮 Future Enhancements
+
 Feature	Status
 📅 Integrated session scheduler	Coming soon
 💬 In-app messaging/chat	Planned
@@ -149,29 +175,36 @@ Feature	Status
 📊 Analytics Dashboard (Admin)	Planned
 
 🧑‍💻 Contributing
+
 We welcome community contributions! Here’s how to get started:
 
 Fork the repository
 
 Clone your fork:
+
 git clone: https://github.com/your-username/Skill-Swap-Platform.git
 
 Create a new branch:
+
 git checkout -b feature/YourFeature
 
 Make changes and commit:
+
 git commit -m "Added new feature"
 
 Push changes:
+
 git push origin feature/YourFeature
 
 Open a Pull Request
 
 
 📬 Contact Us
+
 For queries, suggestions, or collaborations, reach out to:
 
 👨‍💼 Pramod Khatik
+
 GitHub: Pramod838
 
 🙌 Acknowledgments
