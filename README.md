@@ -1,4 +1,5 @@
 🧠 Skill Swap Platform
+
 A peer-to-peer skill exchange platform built to empower learners through mutual collaboration and community-driven learning, without the involvement of money. Whether you're a teacher, learner, or both — this platform connects you with the right people to exchange knowledge and grow together.
 
 ✨ View the Live Website: https://wondrous-wisp-ed631e.netlify.app/
