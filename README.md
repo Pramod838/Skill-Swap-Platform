@@ -91,14 +91,12 @@ Git installed
 🔙 Backend Setup
 
 # Step into the backend directory
+
 cd project/backend/
 
 # Install Python dependencies
-pip install -r requirements.txt
 
-# Create a `.env` file and add:
-# MONGO_URI=<your_mongo_connection_string>
-# SECRET_KEY=<your_secret_key>
+pip install -r requirements.txt
 
 🌐 Live Demo
 
