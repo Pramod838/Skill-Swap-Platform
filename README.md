@@ -1,6 +1,8 @@
 🧠 Skill Swap Platform
 A peer-to-peer skill exchange platform built to empower learners through mutual collaboration and community-driven learning, without the involvement of money. Whether you're a teacher, learner, or both — this platform connects you with the right people to exchange knowledge and grow together.
 
+✨ View the Live Website: https://wondrous-wisp-ed631e.netlify.app/
+
 📌 Selected Problem Statement
 We selected the first problem statement:
 
@@ -86,9 +88,12 @@ pip install -r requirements.txt
 # MONGO_URI=<your_mongo_connection_string>
 # SECRET_KEY=<your_secret_key>
 
-# Run the server
-python server.py
-The backend runs at: http://localhost:5000
+🌐 Live Demo
+✅ Live view: https://wondrous-wisp-ed631e.netlify.app/
+
+Explore the full working app with real-time signup, skill profiles, matchmaking, and request flow!
+
+
 
 🌐 Frontend Setup
 
@@ -100,7 +105,7 @@ npm install
 
 # Start the frontend server
 npm run dev
-The frontend runs at: http://localhost:3000
+Live view: https://wondrous-wisp-ed631e.netlify.app/
 
 📁 Project Structure
 
@@ -128,8 +133,6 @@ Lists skills they can teach and skills they want to learn
 System matches users based on complementary needs
 
 Users send and accept swap requests
-
-Session happens online/offline
 
 Both users rate each other after completion
 
